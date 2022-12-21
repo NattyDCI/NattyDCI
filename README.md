@@ -8,8 +8,8 @@
 - ⚡ Fun fact: I love all things fiber related!
 
 ### Connect with me:
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/nathalia-industrial)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/nathalia-industrial)
+[![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/nathalia-industrial)
+[![linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/nathalia-industrial)
 &nbsp;&nbsp;
 
 
