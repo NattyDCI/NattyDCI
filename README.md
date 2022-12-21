@@ -37,7 +37,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NattyDCI&?theme=synthwave&show_icons=true)
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NattyDCI&theme=synthwave&show_icons=true)
 
  
 
