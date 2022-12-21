@@ -10,6 +10,8 @@
 ### Connect with me:
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/nathalia-industrial)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/nathalia-industrial)
+&nbsp;&nbsp;
+
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
