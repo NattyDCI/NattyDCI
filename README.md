@@ -1,4 +1,4 @@
-# Hello!, I'm Nathalia 👋 
+# Hello!👋 I'm Nathalia,
 
 ## I'm a Junior fullStack Developer with an eye for good design 😸
 
