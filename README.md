@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently working on a full stack website project by using all MERN stack.
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2023 Goals: Learn more & create more!
+- 🥅 2026 Goals: Learn more & create more!
 - ⚡ Fun fact: I love all things fiber related!
 
 ### Connect with me:
